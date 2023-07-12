@@ -183,7 +183,7 @@
           "selectRange": {
             "__compat": {
               "mdn_url": "https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Intl/PluralRules/selectRange",
-              "spec_url": "https://tc39.es/proposal-intl-numberformat-v3/out/pluralrules/proposed.html#sec-intl.pluralrules.prototype.selectrange",
+              "spec_url": "https://tc39.es/ecma402/#sec-intl.pluralrules.prototype.selectrange",
               "support": {
                 "chrome": {
                   "version_added": "106"
@@ -194,14 +194,14 @@
                 },
                 "edge": "mirror",
                 "firefox": {
-                  "version_added": false
+                  "version_added": "116"
                 },
                 "firefox_android": "mirror",
                 "ie": {
                   "version_added": false
                 },
                 "nodejs": {
-                  "version_added": false
+                  "version_added": "19.0.0"
                 },
                 "oculus": "mirror",
                 "opera": "mirror",
